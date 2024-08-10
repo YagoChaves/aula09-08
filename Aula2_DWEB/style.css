@@ -1,0 +1,38 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family: Helvetica;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    size: 49px;
+    line-height: 56px;
+}
+
+p {
+    font-family: 'Open Sans';
+    text-align: center;
+    color: #7D7987;
+    ;
+    size: 14px;
+    line-height: 28px;
+}
+.destaque {
+    color: #0075FF;
+    ;
+}
+
+.cinza {
+    color: #7D7987;
+    ;
+}
+
+div {
+    text-align: center;
+}
+
+a {
+    color: #0075FF;
+}
